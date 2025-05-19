@@ -1,5 +1,9 @@
 insert
     create test3.txt  {Untracked file}
+
+after creating the file add method used ... if the file is already exist don't need to create the file
+
+
 add
     git add test3.txt {Staging area}
 commit
